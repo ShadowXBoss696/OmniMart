@@ -1,0 +1,14 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "disabled",
+
+    // Organize imports settings
+    "java.sources.organizeImports.starThreshold": 5,
+    "java.sources.organizeImports.staticStarThreshold": 3,
+    "java.completion.importOrder": [
+        "",
+        "javax",
+        "java",
+        "#"
+    ]
+}
