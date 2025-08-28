@@ -12,5 +12,9 @@
         "#"
     ],
     "gradle.nestedProjects": true,
-    "gradle.debug": false
+    "gradle.debug": false,
+    "sonarlint.connectedMode.project": {
+        "connectionId": "shadowxboss696",
+        "projectKey": "ShadowXBoss696_OmniMart"
+    }
 }
