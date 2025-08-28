@@ -10,5 +10,7 @@
         "javax",
         "java",
         "#"
-    ]
+    ],
+    "gradle.nestedProjects": true,
+    "gradle.debug": false
 }
