@@ -8,4 +8,8 @@ plugins {
 
 rootProject.name = 'omni-mart'
 
+include ':api-gateway'
 include ':service-discovery'
+include ':config-server'
+
+include ':shared:jpa-support'
